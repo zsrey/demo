@@ -29,6 +29,8 @@ public class JUnitTest {
         String s1 ="MM";
         String s2 ="MM";
         System.out.println(s1.equals(s2));
+        String s3="How was                 ";
+        System.out.println(s3.length());
 
     }
     public void show(){
